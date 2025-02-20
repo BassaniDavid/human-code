@@ -99,3 +99,30 @@ Scansionare un documento su più fogli fronte-retro
 Finalmente sono riuscito a ritrovare quella pratica che sembrava essere svanita nel nulla! Che poi, possibile che nel 2025 ci siano ancora così tanti fogli di carta in giro per l’ufficio?! Ora ci penso io: una bella scansione e l’archiviamo in formato digitale, così la prossima volta so già dove andare a cercarla! L’unica pecca è che lo scanner non ha il fronte-retro automatico e mi tocca farlo a mano. Va beh, poco male, almeno sono pochi fogli!
 
 svolgimento:
+
+- avviare il pc
+- avviare lo scanner
+- inserire il lato A del foglio 1 nello scanner rivolto a faccia in giù posizionandolo con il vertice in alto sulla destra
+- se il software per lo scanner non è installato nel pc:
+    - aprire il browser
+    - digitare nella barra di ricerca il nome dello scanner
+    - cercare il software compatibile
+    - scaricarlo
+    - installarlo
+- avviare il software dello scanner sul pc
+stabilire un percorso file in cui salvare le scansioni
+- avviare la scansione
+- una volta che la scansione è terminata:
+- ripetere i passaggi precedenti da 3 a scansionando i fogli in ordine crescente e facendo prima il lato A e poi il B
+- aprire il percorso file con le scansioni
+- controllare che le scansioni siano uscite correttamente
+- se no: ripetere la scansione del singolo lato del singolo figlio
+- selezionare tutti i file e aprirli in un software che permetta di metterli in un unico file ( es: pdf acrobat)
+- cercare l'opzione per unirli in un unico file
+- selezionarla
+- attendere che il pc finisca l'operazione
+- stabilire il percorso del file
+- nominarlo con il titolo del faldone di fogli originale
+- salvarlo
+- spegnere il pc
+- spegnere lo scanner
