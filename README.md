@@ -11,7 +11,8 @@ Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca i
 Svolgimento:
 
 - uscire di casa
-    - prendere le chiavi di casa e dell'auto
+    - prendere le chiavi di casa e dell'auto e metterli in tasca
+    - prendere la lista e il coupon e metterli in tasca
     - uscire dalla porta di ingresso della casa
     - usare le chiavi di casa per chiudere la porta
     - se non si indossano già le scarpe: 
@@ -32,7 +33,7 @@ Svolgimento:
         - se c'è almeno un parcheggio libero:
             - parcheggiare nel parcheggio del supermercato
         - altrimenti: 
-            -cercare un parcheggio nelle vicinanze e parcheggiare
+            - cercare un parcheggio nelle vicinanze e parcheggiare
         - spegnere il motore
         - mettere il freno a mano
         - scendere dall'auto
@@ -40,13 +41,54 @@ Svolgimento:
         - chiudere l'auto con le chiavi
 
 - entrare al supermercato
+    - dirigersi verso una delle entrate del supermercato
+    - fermarsi davanti alle porte scorrevoli
+    - se le porte non si aprono entro qualche secondo provare a fare un passo avanti o indietro
+    - quando le porte si aprono proseguire all'interno
+    - cercare con lo sguardo i carrelli
+    - se non si vedono, fare qualche passo all'interno, ma senza entrare nella zona vera e propria del supermercato e rieffettuare la ricerca
+    - quando si trovano dirigersi verso i carrelli
+    - estrarre una moneta da 1 o 2 euro dal portafoglio
+    - inserirla nel carrello nell'apposito spazio per sbloccarlo
 - la spesa
+    - dirigersi, con il carrello tenuto con le mani di fronte a noi, all'interno della zona centrale del supermercato
+    - cercare con lo sguardo se all'interno del reparto c'è uno degli oggetti scritti sulla lista
+    - se sì: 
+        - prenderne la quantità segnata sulla lista e riporla nel proprio carrello
+    - procedere con il carrello fino al reparto successivo seguendo senza sbattere con il carrello contro persone o oggetti
+    - se si vogliono prender oggetti non presenti in lista:
+        - non farlo e procedere oltre
+    - se tutti gli oggetti segnati in lista sono stati riposti nel carrello:
+        - dirigersi verso le casse
+        - trovarne una attiva
+    - se ci sono persone di fronte in fila:
+        - attendere che procedano rimanendo dietro di loro
+    - se non ci sono altri clienti in fila:
+        - disporre tutti gli oggetti sul rullo
+        - avanzare con il carrello
 - pagare
+    - dare il coupon alla persona in cassa
+    - se viene accettato:
+        - procedere
+    - se non viene accettato: riprendere il coupon e metterlo in tasca
+    - togliere il portafoglio
+    - pagare l'importo estraendo i soldi dal nostro portafoglio (arrotondando per eccesso)
+    - ritirare lo scontrino
+    - riporre tutti gli oggetti pagati nel carrello
 - uscire dal supermercato
-
-
-    
-
+    - dirigersi con il carrello verso la macchina
+    - aprire la macchina
+    - aprire il bagagliaio
+    - riporre gli oggetti nel bagagliaio
+    - chiudere il bagagliaio e la macchina
+    - riportare il carrello dove lo avevamo preso
+    - infilare il blocco  nel foro
+    - riprendersi la moneta e riporla nel portafoglio
+    - tornare alla macchina
+    - aprirla
+    - sedersi al posto di guida
+    - avviare la macchina inserendo le chiavi
+    - tornare a casa
 
 
 ## secondo esercizio
