@@ -12,7 +12,9 @@ Svolgimento:
 
 - uscire di casa
     - prendere le chiavi di casa e dell'auto e metterli in tasca
-    - prendere la lista e il coupon e metterli in tasca
+    - prendere la lista e il coupon 
+    -controllo che i croccantini per il cane siano segnati sulla lista
+    - metto entrambi in tasca
     - uscire dalla porta di ingresso della casa
     - usare le chiavi di casa per chiudere la porta
     - se non si indossano già le scarpe: 
